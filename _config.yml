@@ -18,6 +18,7 @@ resume_contact_address:         "San Francisco, California"
 resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
 resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
 
+
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
