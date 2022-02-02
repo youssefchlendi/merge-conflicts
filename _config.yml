@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Mohamed youssef chlendi resume"
+description: "Mohamed youssef chlendi full resume using github and github pages."
 
 # Build settings
 markdown: kramdown
@@ -10,12 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
+resume_name:                    "FullStack developer"
+resume_title:                   "INFORMATION SYSTEMS
+DEVELOPMENT STUDENT"
+resume_contact_email:           "youssef.chlendi@gmail.com"
+resume_contact_telephone:       "22079448"
+resume_contact_address:         "Zarzis, Medenine"
+resume_header_contact_info: "Zarzis, Medenine | 22079448 | youssef.chlendi@gmail.com"
 resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
 
 
@@ -39,13 +40,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_github_url:            "https://github.com/youssefchlendi/merge-conflicts"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/youssef.chlendi"
+  resume_linkedin_url:          "https://www.linkedin.com/in/mohamed-youssef-chlendi-1b5624183/"
+  resume_instagram_url:         "https://www.instagram.com/youssef.chlendi/"
+  resume_website_url:           "https://youssefchlendi.github.io/merge-conflicts/"
 resume_print_social_links:      true
 
 # Design settings
